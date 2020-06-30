@@ -1,0 +1,1 @@
+reading from input text file  and passing it to output text file
